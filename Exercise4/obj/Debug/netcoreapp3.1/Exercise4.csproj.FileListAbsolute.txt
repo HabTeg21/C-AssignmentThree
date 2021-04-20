@@ -1,0 +1,13 @@
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+F:\Antra\WebApps\Lab3\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
+F:\Antra\WebApps\Lab3\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csprojAssemblyReference.cache
